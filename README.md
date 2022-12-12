@@ -1,4 +1,4 @@
-# Bread&Butter
+# Disasteriva
 
 A Natural Disaster Reporting Prototype App Made With Jave and JFrame GUI
 
