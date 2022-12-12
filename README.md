@@ -48,15 +48,15 @@ Admin Side
 
 ## Screenshots
 
-- User Side
+User Side
 ![Disasteriva 1](https://user-images.githubusercontent.com/106251683/206964869-f04b5de1-fb27-4268-b665-0bd1288b1429.png)
 
-- Admin Side
+Admin Side
 ![Disasteriva 2](https://user-images.githubusercontent.com/106251683/206964862-9e91d2c7-dc4c-41ef-94d4-47381844dff0.png)
 
 ## Contributions
 
 Object Oriented Programming Module - Taylor's University @2022
-- Bonifacio Ronald
+- [Bonifacio Ronald](https://github.com/bonifacioronald)
 - [Dylan Eu Jiun Kai](https://github.com/dylan-1006)
 
